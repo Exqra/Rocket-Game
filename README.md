@@ -20,4 +20,3 @@ The player start in a position with a rocket, then, tries to get the rocket to t
 # Next Level
 ![](Screenshots/SecondLevel.png)
 
-# --------------------
